@@ -10,7 +10,7 @@
 <br/>
 
 <h3 align="center">
-  🇧🇩 Hello, I'm Mahadi Labib 👋 <br/>
+  🇧🇩 Hello, I'm MD Mahadi Rahman Labib 👋 <br/>
   💻 Competitive Programmer | 🎓 CSE Student
 </h3>
 
@@ -26,7 +26,7 @@
 
 💻 I am a **Competitive Programmer** skilled in **C, C++, Python, and Java**.  
 🌐 Also learning **Web Development (HTML, CSS)**.  
-🎯 Goal: Become a **Codeforces Specialist**.  
+🎯 Goal: Become a **Human**.  
 
 ---
 
@@ -61,9 +61,9 @@
 
 ## 🧩 Competitive Programming
 
-- 🔗 Codeforces: https://codeforces.com/profile/YOUR_HANDLE  
-- 🔗 AtCoder: https://atcoder.jp/users/YOUR_HANDLE  
-- 🔗 LeetCode: https://leetcode.com/YOUR_HANDLE  
+- 🔗 Codeforces: https://codeforces.com/profile/Maha_D_Rahman  
+- 🔗 AtCoder: https://atcoder.jp/users/Maha_D_Rahman  
+- 🔗 LeetCode: https://leetcode.com/Maha_D_Rahman  
 
 ---
 
@@ -85,7 +85,7 @@
 
 ## 📫 Contact
 
-- ✉️ yourmail@gmail.com  
+- ✉️ mahadirahmanlabib50@gmail.com  
 
 ---
 
