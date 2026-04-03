@@ -10,7 +10,7 @@
 <br/>
 
 <h3 align="center">
-  🇧🇩 Hello, I'm MD Mahadi Rahman Labib 👋 <br/>
+  Hola, I'm MD Mahadi Rahman Labib 👋 <br/>
   💻 Competitive Programmer | 🎓 CSE Student
 </h3>
 
@@ -26,7 +26,7 @@
 
 💻 I am a **Competitive Programmer** skilled in **C, C++, Python, and Java**.  
 🌐 Also learning **Web Development (HTML, CSS)**.  
-🎯 Goal: Become a **Human**.  
+🎯 Goal: Become a **Better Human**.  
 
 ---
 
