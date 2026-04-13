@@ -39,7 +39,7 @@
 ## ⚡ Current Activities
 - 🔭 Practicing problem solving daily  
 - 🌱 Learning Data Structures & Algorithms deeply  
-- 🏆 Preparing for ICPC  
+- 🏆 Preparing for Practice
 
 ---
 
