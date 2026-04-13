@@ -17,7 +17,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F700&size=24&center=true&vCenter=true&width=600&lines=Competitive+Programmer;CSE+Student;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F700&size=24&center=true&vCenter=true&width=600&lines=Competitive+Programmer;CSE+Student;Traveler" />
 </p>
 
 ---
